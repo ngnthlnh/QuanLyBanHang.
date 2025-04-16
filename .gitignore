@@ -1,0 +1,14 @@
+# Build results
+bin/
+obj/
+
+# VS files
+.vs/
+*.user
+*.suo
+
+# Other
+*.exe
+*.dll
+*.pdb
+*.cache
