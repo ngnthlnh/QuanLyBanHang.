@@ -68,7 +68,7 @@
 2. Chạy script tạo bảng
 3. Chạy lần lượt các thủ tục tạo dữ liệu
 4. Thêm triggers và modules xử lý 
-5. Truy vấn thử nghiệm với
+5. Truy vấn thử nghiệm
 
 ---
 
