@@ -10,10 +10,10 @@
 - Nguyễn Thị Thùy Linh  
 - Dương Công Tùng  
 - Nguyễn Thị Thúy  
-- Dương Ngọc Phú
+- Dương Ngọc Phú (Leader)
 
-**GVHD**: Cao Thị Nhâm  
-**Thời gian thực hiện**: 11/2021
+**GVHD**: Cao Thị Nhâm  , **Email**: nhamct@due.edu.vn, **Mobile**: 0988363808 
+**Thời gian thực hiện**: 08/2024 - 01/2025
 
 ---
 
