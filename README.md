@@ -61,36 +61,13 @@
 
 ---
 
-## 📁 Cấu trúc thư mục (gợi ý)
-
-📦 project-root/
-├── README.md
-├── sql/
-│ ├── 01_create_tables.sql
-│ ├── 02_insert_procedures.sql
-│ ├── 03_triggers.sql
-│ ├── 04_functions.sql
-│ ├── 05_reporting_modules.sql
-│ └── 06_sample_queries.sql
-├── images/
-│ ├── erd-integrated.png
-│ ├── relationship-diagram.png
-└── docs/
-└── QTCSDL_NHOM2_CTPP.docx
-
-yaml
-Copy
-Edit
-
----
-
 ## 🚀 Cách chạy dự án
 
 1. Mở SSMS, tạo CSDL `CTPhanPhoi`
-2. Chạy script tạo bảng (`01_create_tables.sql`)
-3. Chạy lần lượt các thủ tục tạo dữ liệu (`02_insert_procedures.sql`)
-4. Thêm triggers và modules xử lý (`03`, `04`, `05`)
-5. Truy vấn thử nghiệm với `06_sample_queries.sql`
+2. Chạy script tạo bảng
+3. Chạy lần lượt các thủ tục tạo dữ liệu
+4. Thêm triggers và modules xử lý 
+5. Truy vấn thử nghiệm với
 
 ---
 
