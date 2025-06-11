@@ -1,10 +1,10 @@
 # Hệ thống Quản lý Bán hàng - Công ty Phân phối Quý Thiện
 
-## 📘 Giới thiệu
+## Giới thiệu
 
 Đây là dự án môn học **Quản trị Cơ sở Dữ liệu**, nhằm xây dựng một hệ thống quản lý bán hàng cho một công ty phân phối. Dự án được thực hiện bởi Nhóm 2 - lớp 48K21.2, với mục tiêu mô phỏng đầy đủ quy trình từ quản lý khách hàng, nhà cung cấp, đơn hàng, xuất/nhập kho, thanh toán đến thống kê báo cáo.
 
-## 👥 Thành viên nhóm
+## Thành viên nhóm
 
 - Trần Chế Mỹ Duyên  
 - Nguyễn Thị Thùy Linh  
@@ -17,7 +17,7 @@
 
 ---
 
-## 🗃️ Nội dung chính
+## Nội dung chính
 
 ### 1. Thiết kế Cơ sở Dữ liệu
 
@@ -36,14 +36,14 @@
 
 > Tạo qua hàm, stored procedure, trigger
 
-#### 🔢 Tính toán - Kiểm tra:
+#### Tính toán - Kiểm tra:
 - Tổng tiền đơn hàng, doanh thu, chi phí, lợi nhuận theo **tháng/quý/năm**
 - Tồn kho thực tế tại thời điểm kiểm tra
 
-#### 🔍 Kiểm tra dữ liệu:
+#### Kiểm tra dữ liệu:
 - Trigger kiểm tra tính hợp lệ khi thêm khách hàng, nhân viên, nhà cung cấp, hàng hóa
 
-#### 📊 Báo cáo & thống kê:
+#### Báo cáo & thống kê:
 - Top 5 khách hàng đặt nhiều đơn nhất trong năm
 - Top 10 sản phẩm bán chạy nhất (>50.000đ) trong tháng
 - Top 3 nhân viên bán nhiều đơn nhất trong năm
@@ -51,7 +51,7 @@
 
 ---
 
-## 🛠️ Kỹ thuật sử dụng
+## Kỹ thuật sử dụng
 
 - **Ngôn ngữ**: T-SQL
 - **Môi trường**: SQL Server Management Studio (SSMS)
@@ -61,7 +61,7 @@
 
 ---
 
-## 🚀 Cách chạy dự án
+## Cách chạy dự án
 
 1. Mở SSMS, tạo CSDL `CTPhanPhoi`
 2. Chạy script tạo bảng
@@ -71,7 +71,7 @@
 
 ---
 
-## 📌 Ghi chú
+## Ghi chú
 
 - Tất cả mã được viết thủ công và tuân theo chuẩn SQL Server
 - Mỗi module đã được kiểm tra với dữ liệu thực tế lên tới 1000 bản ghi
@@ -79,7 +79,7 @@
 
 ---
 
-## 📄 Giấy phép
+## Giấy phép
 
 Dự án được thực hiện trong phạm vi học tập, **không sử dụng cho mục đích thương mại**.
 
